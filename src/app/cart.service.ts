@@ -5,10 +5,6 @@ import { HttpClient } from '@angular/common/http';
 export class CartService {
   items = [];
 
-  constructor(
-    private http: HttpClient
-  ) {}
-
   addToCart(product) {
     this.items.push(product);
   }
@@ -25,4 +21,13 @@ export class CartService {
   getShippingPrices() {
     return this.http.get('/assets/shipping.json');
   }
+
+  getGraphpicDesignPortfolio() {
+    return this.http.get('/assets/graphic.json');
+  }
+
+  constructor(
+    private http: HttpClient
+  ) { }
+
 }

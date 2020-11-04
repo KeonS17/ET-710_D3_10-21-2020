@@ -1,0 +1,59 @@
+[
+    {
+    	name: 'Visionaire Poster',
+    	cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/Visionaire.jpg'
+  	},
+    {
+    	name: 'Wolf Kings Poster',
+    	cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/Wolf-Kings.jpg'
+  	},
+    {
+      name: 'PSA Poster',
+      cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/psa-poster.jpg'
+    },
+    {
+      name: 'Intergalactic Doorway',
+      cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/red-door.jpg'
+    },
+    {
+      name: 'Species: Unknown',
+      cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/goat.jpg'
+    },
+    {
+      name: 'Seudo Productions',
+      cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/seudo-productions-long.jpg'
+    },
+    {
+      name: 'EXO Studios',
+      cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/exo-studios.jpg'
+    },
+    {
+    	name: 'Wiccan Sweets Shoppe',
+    	cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/wiccan-sweets-shoppe.jpg'
+  	},
+    {
+    	name: 'Sunrise Airlines',
+    	cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/sunrise-airlines.jpg'
+  	},
+    {
+    	name: 'Medieval Poker Club',
+    	cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/medieval-poker-club.jpg'
+  	},
+    {
+      name: 'Tweet Inc.',
+      cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/tweet-inc.jpg'
+    },
+    {
+      name: 'Sunset',
+      cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/Symmetrical Design.jpg'
+    },
+    {
+      name: '',
+      cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/Business Cards.jpg'
+    },
+    {
+      name: '',
+      cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/Inspirational Quote Design.jpg'
+    },
+
+  ]
