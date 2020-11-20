@@ -63,25 +63,25 @@ export const r1 = {
 "skills":[
 	{
 		"skill": "Adobe Photoshop",
-		"level": "95%"
+		"level": "99%"
 	},
 	
 		{
 		"skill": "Photography",
-		"level": "80%"
+		"level": "85%"
 	},
 		{
 		"skill": "Illustrator",
-		"level": "85%"
+		"level": "93%"
 	},
 	
 		{
 		"skill": "Media",
-		"level": "50%"
+		"level": "80%"
 	},
   	{
 		"skill": "Angular",
-		"level": "97%"
+		"level": "60%"
 	}
 	],  
   "workExperience": [

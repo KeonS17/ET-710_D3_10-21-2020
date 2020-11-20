@@ -32,6 +32,7 @@ import { ResumeWorkExperienceComponent } from './resume-work-experience/resume-w
       { path: 'shipping', component: ShippingComponent },
       { path: 'graphic', component: GraphicDesignComponent },
       { path: 'illustration', component: IllustrationComponent },
+      { path: 'resume', component: MyResumeComponent },
 
     ])
   ],
