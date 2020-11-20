@@ -2,7 +2,6 @@ import { Component, OnInit } from '@angular/core';
 
 import { CartService } from '../cart.service';
 
-
 @Component({
   selector: 'app-graphic-design',
   templateUrl: './graphic-design.component.html',
@@ -10,14 +9,14 @@ import { CartService } from '../cart.service';
 })
 export class GraphicDesignComponent implements OnInit {
 
-  portfolioItems ;
+  portfolioItems;
 
   constructor(
-    private cartService: CartService,
+    private cartService: CartService
   ) { }
 
   ngOnInit() {
-    this.portfolioItems= this.cartService.getGraphpicDesignPortfolio();
+    this.portfolioItems = this.cartService.getGraphicDesignPortfolio();
   }
 
 }

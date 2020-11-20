@@ -1,4 +1,5 @@
 import { Injectable } from '@angular/core';
+
 import { HttpClient } from '@angular/common/http';
 
 @Injectable()
@@ -22,7 +23,7 @@ export class CartService {
     return this.http.get('/assets/shipping.json');
   }
 
-  getGraphpicDesignPortfolio() {
+  getGraphicDesignPortfolio() {
     return this.http.get('/assets/graphic.json');
   }
 

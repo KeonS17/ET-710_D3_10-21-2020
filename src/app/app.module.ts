@@ -13,6 +13,12 @@ import { CartService } from './cart.service';
 import { CartComponent } from './cart/cart.component';
 import { ShippingComponent } from './shipping/shipping.component';
 import { GraphicDesignComponent } from './graphic-design/graphic-design.component';
+import { IllustrationComponent } from './illustration/illustration.component';
+import { ResumeEducationComponent } from './resume-education/resume-education.component';
+import { MyResumeComponent } from './my-resume/my-resume.component';
+import { ResumeFooterComponent } from './resume-footer/resume-footer.component';
+import { ResumeProfileComponent } from './resume-profile/resume-profile.component';
+import { ResumeWorkExperienceComponent } from './resume-work-experience/resume-work-experience.component';
 
 @NgModule({
   imports: [
@@ -25,6 +31,8 @@ import { GraphicDesignComponent } from './graphic-design/graphic-design.componen
       { path: 'cart', component: CartComponent },
       { path: 'shipping', component: ShippingComponent },
       { path: 'graphic', component: GraphicDesignComponent },
+      { path: 'illustration', component: IllustrationComponent },
+
     ])
   ],
   declarations: [
@@ -35,7 +43,13 @@ import { GraphicDesignComponent } from './graphic-design/graphic-design.componen
     ProductDetailsComponent,
     CartComponent,
     ShippingComponent,
-    GraphicDesignComponent
+    GraphicDesignComponent,
+    IllustrationComponent,
+    ResumeEducationComponent,
+    MyResumeComponent,
+    ResumeFooterComponent,
+    ResumeProfileComponent,
+    ResumeWorkExperienceComponent,
   ],
   bootstrap: [ AppComponent ],
   providers: [CartService]

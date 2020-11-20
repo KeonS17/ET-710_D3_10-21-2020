@@ -1,59 +1,55 @@
 [
     {
-    	name: 'Visionaire Poster',
-    	cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/Visionaire.jpg'
+    	"caption": "Visionaire Poster",
+    	"src": "https://d3u4fnct1vpepk.cloudfront.net/website/war2/img/Visionaire.jpg"
   	},
     {
-    	name: 'Wolf Kings Poster',
-    	cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/Wolf-Kings.jpg'
+    	"caption": "Wolf Kings Poster",
+    	"src": "https://d3u4fnct1vpepk.cloudfront.net/website/war2/img/Wolf-Kings.jpg"
   	},
     {
-      name: 'PSA Poster',
-      cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/psa-poster.jpg'
+      "caption": "PSA Poster",
+      "src": "https://d3u4fnct1vpepk.cloudfront.net/website/war2/img/psa-poster.jpg"
     },
     {
-      name: 'Intergalactic Doorway',
-      cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/red-door.jpg'
+      "caption": "Intergalactic Doorway",
+      "src": "https://d3u4fnct1vpepk.cloudfront.net/website/war2/img/red-door.jpg"
     },
     {
-      name: 'Species: Unknown',
-      cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/goat.jpg'
+      "caption": "Species: Unknown",
+      "src": "https://d3u4fnct1vpepk.cloudfront.net/website/war2/img/goat.jpg"
     },
     {
-      name: 'Seudo Productions',
-      cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/seudo-productions-long.jpg'
+      "caption": "Seudo Productions",
+      "src": "https://d3u4fnct1vpepk.cloudfront.net/website/war2/img/seudo-productions-long.jpg"
     },
     {
-      name: 'EXO Studios',
-      cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/exo-studios.jpg'
+      "caption": "EXO Studios",
+      "src": "https://d3u4fnct1vpepk.cloudfront.net/website/war2/img/exo-studios.jpg"
     },
+  
     {
-    	name: 'Wiccan Sweets Shoppe',
-    	cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/wiccan-sweets-shoppe.jpg'
+    	"caption": "Sunrise Airlines",
+    	"src": "https://d3u4fnct1vpepk.cloudfront.net/website/war2/img/sunrise-airlines.jpg"
   	},
     {
-    	name: 'Sunrise Airlines',
-    	cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/sunrise-airlines.jpg'
+    	"caption": "Medieval Poker Club",
+    	"src": "https://d3u4fnct1vpepk.cloudfront.net/website/war2/img/medieval-poker-club.jpg"
   	},
     {
-    	name: 'Medieval Poker Club',
-    	cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/medieval-poker-club.jpg'
-  	},
-    {
-      name: 'Tweet Inc.',
-      cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/tweet-inc.jpg'
+      "caption": "Tweet Inc.",
+      "src": "https://d3u4fnct1vpepk.cloudfront.net/website/war2/img/tweet-inc.jpg"
     },
     {
-      name: 'Sunset',
-      cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/Symmetrical Design.jpg'
+      "caption": "Sunset",
+      "src": "https://d3u4fnct1vpepk.cloudfront.net/website/war2/img/Symmetrical Design.jpg"
     },
     {
-      name: '',
-      cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/Business Cards.jpg'
+      "caption": "",
+      "src": "https://d3u4fnct1vpepk.cloudfront.net/website/war2/img/Business Cards.jpg"
     },
     {
-      name: '',
-      cover: 'http://d3u4fnct1vpepk.cloudfront.net/website/war2/img/Inspirational Quote Design.jpg'
-    },
-
-  ]
+      "caption": "",
+      "src": "https://d3u4fnct1vpepk.cloudfront.net/website/war2/img/Inspirational Quote Design.jpg"
+    }
+]
